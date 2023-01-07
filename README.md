@@ -1,2 +1,2 @@
 # CS373
-materials for Udacity cS373 AI in Robotics course
+materials for Udacity CS373 AI in Robotics course
